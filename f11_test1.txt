@@ -1,0 +1,23 @@
+Question 1 : What do you know about function ?
+Answer : 1. It is reusable block of code. Used for performing a particular task and  data transformation. 
+         2. A return statement stop execution of the function body and return value back at the calling point.
+         3.Function have zero or more parameters
+
+Question 2 : What is Layout ?
+Answer 2: 1. Layout is pre planned structure of a webpage.
+          2. Box contains one or more element like text, image,link,form,table.
+          3. Boxes have attributes(written with opening tag).The contents of the boxes are displayed on web page.
+
+Question 3. what do know about flex layout ?
+Answer 3. 1. Flex-box technique is a convenient way for designing layout of a web page having several boxes.
+          2. It makes it is easy to creaye responsive and flexible web page layout without using complicated posiotioning.
+
+Question 4. What is need of grid Layout ?
+Answer 4.  1. Grid Layout is used to arrange elements in rows and columns.
+           2. It helps create responsive and well-organized web page layouts.
+           3. It makes designing complex layouts easier with less CSS code.
+
+Question 5. What is use of github ?
+Answer 5. 1. GitHub is used to store and manage source code online.
+          2. It allows multiple developers to collaborate on the same project.
+          3. It is used for version control, backup, and sharing code.
